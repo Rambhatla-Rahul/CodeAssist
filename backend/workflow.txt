@@ -1,0 +1,22 @@
+| Phase | Topic                                     |
+| ----- | ----------------------------------------- |
+| 1     | Client Intent Discovery                   |
+| 2     | Requirement Gathering                     |
+| 3     | Requirement Clarification                 |
+| 4     | Functional vs Non-Functional Requirements |
+| 5     | Scope Definition                          |
+| 6     | Product Documentation                     |
+| 7     | User Stories                              |
+| 8     | System Design                             |
+| 9     | Architecture                              |
+| 10    | Database Design                           |
+| 11    | API Design                                |
+| 12    | Security Planning                         |
+| 13    | Development Planning                      |
+| 14    | Git & Collaboration                       |
+| 15    | Coding Standards                          |
+| 16    | Testing Strategy                          |
+| 17    | CI/CD                                     |
+| 18    | Deployment                                |
+| 19    | Monitoring & Logging                      |
+| 20    | Scaling & Maintenance                     |
